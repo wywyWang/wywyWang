@@ -1,8 +1,10 @@
 ### Hi 👋, I am Wei-Yao ![](https://komarev.com/ghpvc/?username=wywyWang&color=green)
 
-🎓 Visiting Scholar at University of California, Los Angeles | Ph.D. Candidate at National Yang Ming Chiao Tung University
+🚀 Incoming Research Scientist at Sony
 
-🎰 Research Interests: Sports Analytics | Natural Language Applications | Foundation Models | Low-Resource Scenarios | Deep Learning
+🎓 Ph.D. at National Yang Ming Chiao Tung University | Visiting Scholar at University of California, Los Angeles
+
+🎰 Research Interests: Sports Science | Natural Language Applications | Foundation Models | Low-Resource Scenarios | Deep Learning
 
 ✨ [LinkedIn](https://www.linkedin.com/in/wei-yao-wang/) | [Google Scholar](https://scholar.google.com.tw/citations?hl=zh-TW&user=HMKbOJAAAAAJ) | [Website](https://sites.google.com/nctu.edu.tw/weiyaowang)
 
